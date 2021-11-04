@@ -53,9 +53,9 @@ This analysis was performed using the codes provided and steps for Deliverable 1
   
   ![2018 AllStocksAnalysis.png](https://github.com/charleside2001/Stock-analysis/blob/main/Resources/2018%20AllStocksAnalysis.png)
   
-  `VBA_Challenge_2018.png
+  `VBA_Challenge_2018.png`
   
-  `![VBA_Challenge_2018.png](https://github.com/charleside2001/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png.png)
+  ![VBA_Challenge_2018.png](https://github.com/charleside2001/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png.png)
    
   
 

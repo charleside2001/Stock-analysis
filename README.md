@@ -1,10 +1,10 @@
-# Overview of Project - Refactoring VBA Scipt  
+# Overview of Project - Refactoring VBA Script  
 
 ## Purpose
 The purpose of this project was to edit Module 2 solution code to loop through year 2017 and 2018 data in order to determine if refactoring of the code successfully made the VBA script run faster as well as analyses the performance of 12 different stock performances for 2017 and 2018 to assist Steve research in determining which stock is best for his parents to invest in.
 
 ### Background
-Steve was very interested in the module 2 exercise and wanted to be able to analyze an entire dataset at the click of a button. Based on that, I obtained performed an additional analysis using module 2 green stocks excel workbook for 12 different stock performances 2017 and 2018. 
+Steve was very interested in the module 2 exercise and wanted to be able to analyze an entire data-set at the click of a button. Based on that, I obtained performed an additional analysis using module 2 green stocks excel workbook for 12 different stock performances 2017 and 2018. 
 
 ### Result of Analysis
 This analysis was performed using the codes provided and steps for Deliverable 1 requirements.
@@ -27,7 +27,7 @@ This analysis was performed using the codes provided and steps for Deliverable 1
  `VBA_Challenge_2018.png`
  
  ![VBA_Challenge_2018.png](https://github.com/charleside2001/Stock-analysis/blob/main/Resources/VBA_Challenge_2018.png.png).                
- * Comparing the original and refactored analyses, and it shows tremendous decrease from the original analysis time. Screenshots are provided below for this comparism.
+ * Comparing the original and refactored analyses, and it shows tremendous decrease from the original analysis time. Screenshots are provided below for this comparison.
  
 
 ## Summary
